@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
+This programs function is to greet new users to the project in a helpful manner
 
-DESCRIPTION PLACEHOLDER
 
 ## What it does
+- Greets new users
+- Helps them find the files they need
+- introduces them to the team
 
-FEATURES PLACEHOLDER
 
 ## Getting started
 
