@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Good Morning!
+Good Afternoon!
+Good Evening!
+Welcome
+
